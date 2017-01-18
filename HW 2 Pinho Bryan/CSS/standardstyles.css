@@ -1,0 +1,46 @@
+div#header {
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    background-color: #558C89;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+div#content {
+	float:left;
+	width:900px;
+	padding:10px;
+    margin: 3px;
+    background-color: #D9853B;
+}
+
+div#left-nav {
+	float:left;
+	width:289px;
+	padding:10px;
+    margin: 3px;
+    background-color: #74AFAD;
+}
+
+div#right-nav {
+	float:right;
+	width:289px;
+	padding:10px;
+    margin: 3px;
+    background-color: #ECECEA;
+}
+
+div#footer {
+	clear:both;
+	padding:10px;
+    margin: 5px;
+    color: white;
+    background-color: #558C89;
+}
+
